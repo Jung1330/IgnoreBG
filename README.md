@@ -2,8 +2,7 @@
 
   Tüm herkesi engelleyebilirsiniz,bu yazılımı kullanırsanız
 boş deneyimlerini engelleyebilirsiniz.İstemediğiniz zamanda
-bilgisayarınızın başkası tarafından kullanılmasını engelle-       
-yebilirsiniz.
+bilgisayarınızın başkası tarafından kullanılmasını engelleyebilirsiniz.
 
 ## Kullanım
 

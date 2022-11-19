@@ -1,7 +1,7 @@
 # IgnoreBG
 
   Tüm herkesi engelleyebilirsiniz,bu yazılımı kullanırsanız
-boş deneyimlerini engelleyebilirsiniz.İstemediğiniz zamanda   
+boş deneyimlerini engelleyebilirsiniz.İstemediğiniz zamanda
 bilgisayarınızın başkası tarafından kullanılmasını engelle-       
 yebilirsiniz.
 

@@ -7,17 +7,17 @@ yebilirsiniz.
 
 ## Kullanım
 
-Şuanki Kullanılan Şifre : Sa         
-(Şifreyi PasswordCheck.Text'den değiştirebilirsiniz)              
+Şuanki Kullanılan Şifre : Sa       
+(Şifreyi PasswordCheck.Text'den değiştirebilirsiniz)          
 
 Uygulamayı açtıktan sonra "Insert" tuşuna basarak
-giriş panelini gösterebilirsiniz.Giriş yaptığınızda   
-sağ alttaki "SystemTray" e gidicek (Sağ en altta)    
-oraya çift basarak geri aktif edebilirsiniz.    
+giriş panelini gösterebilirsiniz.Giriş yaptığınızda
+sağ alttaki "SystemTray" e gidicek (Sağ en altta)
+oraya çift basarak geri aktif edebilirsiniz. 
 
 ### Kapatma
 
-Tek kapatma yöntemi şifreyi girdikten sonra Görev Yöneticisi üzerinden kapatma                                          
+Tek kapatma yöntemi şifreyi girdikten sonra Görev Yöneticisi üzerinden kapatılır.                                     
 
 ##### Engelledikleri
 

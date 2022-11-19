@@ -1,0 +1,11 @@
+C:\Users\Ben\source\repos\IgnoreBG\IgnoreBG\obj\Debug\IgnoreBG.csproj.AssemblyReference.cache
+C:\Users\Ben\source\repos\IgnoreBG\IgnoreBG\obj\Debug\IgnoreBG.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ben\source\repos\IgnoreBG\IgnoreBG\obj\Debug\IgnoreBG.Form1.resources
+C:\Users\Ben\source\repos\IgnoreBG\IgnoreBG\obj\Debug\IgnoreBG.Properties.Resources.resources
+C:\Users\Ben\source\repos\IgnoreBG\IgnoreBG\obj\Debug\IgnoreBG.csproj.GenerateResource.cache
+C:\Users\Ben\source\repos\IgnoreBG\IgnoreBG\obj\Debug\IgnoreBG.csproj.CoreCompileInputs.cache
+C:\Users\Ben\source\repos\IgnoreBG\IgnoreBG\bin\Debug\IgnoreBG.exe.config
+C:\Users\Ben\source\repos\IgnoreBG\IgnoreBG\bin\Debug\IgnoreBG.exe
+C:\Users\Ben\source\repos\IgnoreBG\IgnoreBG\bin\Debug\IgnoreBG.pdb
+C:\Users\Ben\source\repos\IgnoreBG\IgnoreBG\obj\Debug\IgnoreBG.exe
+C:\Users\Ben\source\repos\IgnoreBG\IgnoreBG\obj\Debug\IgnoreBG.pdb

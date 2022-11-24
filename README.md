@@ -21,7 +21,7 @@ Tek kapatma yöntemi şifreyi girdikten sonra Görev Yöneticisi üzerinden kapa
 ##### Engelledikleri
 
 • ALT+F4                                                              
-• ALT+TAB                                                       
+• ALT+TAB(Atılıyo ama herzaman en üstte olduğundan bir şey yapamıyo)                                                             
 
 #####
 

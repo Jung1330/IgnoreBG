@@ -96,12 +96,12 @@ namespace IgnoreBG
         private void SuccessTimer_Tick(object sender, EventArgs e)
         {     
             this.WindowState = FormWindowState.Minimized;
-            Console.WriteLine("Hala Çalşıom Succress");
+            Console.WriteLine("Hala Çalşıom Hehehe");
         }
         private void WrongTimer_Tick(object sender, EventArgs e)
         {
             this.WindowState = FormWindowState.Maximized;
-            Console.WriteLine("Hala Çalşıom Wrong");
+            Console.WriteLine("Hala Çalşıom Hata");
         }
 
         #endregion
